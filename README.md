@@ -1,4 +1,4 @@
-# tp5-juego-colores-cli
+# TP7 Colores con Vuex
 
 ## Project setup
 ```
